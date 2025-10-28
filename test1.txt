@@ -8,3 +8,7 @@ bamboo decline girl sheriff armed xaa exclude awake trash ability client dblclic
 
 11112222
 3333
+
+git merge --abort
+fq2 git pull --no-rebase
+fq2 git push
